@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName HimitsuPage
 AuthUserFile ./.htpasswd
-Require test
+Require user test
